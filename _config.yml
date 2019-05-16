@@ -9,4 +9,4 @@ github:
   zip_url: https://github.com/Jiangliuer/jiangliuer.github.io/archive/master.zip
   tar_url: https://github.com/Jiangliuer/jiangliuer.github.io/archive/master.zip
   is_project_page: true
-  is_user_page: true
+  is_user_page: false
