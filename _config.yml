@@ -1,6 +1,7 @@
 title: AI note
 description: AInote is a study tutorial for ML&DL.
 show_downloads: true
+show_content: true
 google_analytics:
 theme: jekyll-theme-architect
 github:
