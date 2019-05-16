@@ -2,21 +2,19 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
+ **AI** _study_ on the ~~way...~~.
 
 [Link to another page](./another-page.html).
 
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+based on python
 
 # 学习历程
 
-在平时的工作中，会用到数据预处理、数据可视化、机器学习模型搭建等相关的软件包，最便捷的方式就是从官方文档和API入手，寻找满足于应用需求的接口，然后快速上手实现。当然，灵活的应用需要长期学习的过程，我希望通过制定科学有序的计划，从不同层面去提升能力。学习流程如下：
-+ 数据处理 numpy pandas
-+ 可视化   matplotlib seaborn
-+ 机器学习 sklearn h2o spark
-+ 深度学习 pytorch tensorflow
+在平时的工作中，会用到数据预处理、数据可视化、机器学习模型搭建等相关的软件包，最便捷的方式就是从官方文档和API入手，寻找满足于应用需求的接口，然后快速上手实现。当然，灵活的应用需要长期学习和训练的过程，我希望通过制定科学有序的计划，从不同层面去提升能力。我们需要学习的python包如下：
++ 数据处理    numpy pandas
++ 数据可视化  matplotlib seaborn
++ 机器学习    sklearn h2o spark
++ 深度学习    pytorch tensorflow
 
 
 ### Header 3
