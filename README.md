@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 ## AInote学习笔记
 
 ### python
