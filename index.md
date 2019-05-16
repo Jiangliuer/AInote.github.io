@@ -10,15 +10,14 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# 学习历程
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+在平时的工作中，会用到数据预处理、数据可视化、机器学习模型搭建等相关的软件包，最便捷的方式就是从官方文档和API入手，寻找满足于应用需求的接口，然后快速上手实现。当然，灵活的应用需要长期学习的过程，我希望通过制定科学有序的计划，从不同层面去提升能力。学习流程如下：
++ 数据处理 numpy pandas
++ 可视化   matplotlib seaborn
++ 机器学习 sklearn h2o spark
++ 深度学习 pytorch tensorflow
 
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
 
 ### Header 3
 
