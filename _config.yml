@@ -1,0 +1,12 @@
+title: AI note
+description: AInote is a study tutorial for ML&DL.
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-architect
+github:
+  repository_name: AInote 
+  repository_url: https://github.com/Jiangliuer/jiangliuer.github.io
+  zip_url: https://github.com/Jiangliuer/jiangliuer.github.io/archive/master.zip
+  tar_url: https://github.com/Jiangliuer/jiangliuer.github.io/archive/master.zip
+  is_project_page: true
+  is_user_page: true
