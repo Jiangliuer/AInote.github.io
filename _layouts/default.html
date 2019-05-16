@@ -37,6 +37,10 @@
         </section>
 
         <aside id="sidebar">
+          {% if site.show_content %}
+            <h2>Content</h2>
+            
+          {% endif %}
           {% if site.show_downloads %}
             <a href="{{ site.github.zip_url }}" class="button">
               <small>Download</small>
