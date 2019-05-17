@@ -5,7 +5,7 @@ layout: default
  **AI** _study_ on the ~~way...~~.
 
 [Link to another page](./another-page.html).
-[Link to another page](./_tutorial/data/1.numpy_start.html).
+[Link to another page](_tutorial/data/1.numpy_start.md).
 
 based on python
 
